@@ -1,4 +1,5 @@
 set -e
+set -x 
 appName="openlist"
 builtAt="$(date +'%F %T %z')"
 gitAuthor="The OpenList Projects Contributors <noreply@openlist.team>"
